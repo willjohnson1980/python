@@ -1,3 +1,4 @@
+#Using a file called world_fires_1_day.csv, make a map that shows which parts of the world are affected by fires.
 import csv
 from datetime import datetime
 
